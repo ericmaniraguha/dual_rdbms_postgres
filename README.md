@@ -57,7 +57,7 @@ spring.datasource.password=
 spring.datasource.driver-class-name=org.h2.Driver
 
 # PostgreSQL Database Configuration
-spring.datasource.secondary.url=jdbc:postgresql://localhost:5432/your_postgres_db
+spring.datasource.secondary.url=jdbc:postgresql://localhost:5432/my_redbms
 spring.datasource.secondary.username=your_postgres_username
 spring.datasource.secondary.password=your_postgres_password
 spring.datasource.secondary.driver-class-name=org.postgresql.Driver
